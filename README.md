@@ -1,6 +1,11 @@
 # Introdução
 Este é um projeto simples de uma extensão para o Google Chrome que realiza o cálculo de juros compostos. O objetivo deste projeto é demonstrar de forma fácil e acessível como podemos criar uma extensão usando tecnologias web, como React, Vite e Tailwind CSS.
 
+<div align="center">
+  <a href="https://github.com/WILLRDNK">
+  <img height="350em" src="https://github.com/WillRDNK/juros-compostos/blob/master/img_calc.png?raw=true"/>
+</div>
+
 O cálculo de juros compostos é uma operação comum em finanças e investimentos, e a criação desta extensão visa oferecer uma ferramenta prática para auxiliar nesse cálculo. Além disso, este projeto tem como propósito atrair mais pessoas para o desenvolvimento web, mostrando como é possível criar extensões para o navegador de forma simples e eficiente.
 
 ## Tecnologias utilizadas
